@@ -35,10 +35,10 @@ var PreloadState = {
 
         this.load.audio('achievesound', ['assets/audio/getAch.ogg']);
         this.load.audio('UFOsound', ['assets/audio/bgboss.ogg']);
-        this.load.audio('musicmain', ['assets/audio/Flowers.mp3']);
+        this.load.audio('musicmain', ['assets/audio/gameTheme.mp3']);
         this.load.audio('jumpsound', ['assets/audio/Jump.mp3']);
         this.load.audio('menuNav', ['assets/audio/menu_nav.mp3']);
-        this.load.audio('menuMusic', ['assets/audio/Richard Wagner.mp3']);
+        this.load.audio('menuMusic', ['assets/audio/mainTheme.mp3']);
         this.load.audio('evilsound', ['assets/audio/smboss.ogg']);
         this.load.audio('endsound', ['assets/audio/end.mp3']);
         this.load.audio('playerhello', ['assets/audio/allright.mp3']);

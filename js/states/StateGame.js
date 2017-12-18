@@ -14,7 +14,7 @@ var GameState = {
         this.maxJump = 120;
         this.achieve = 0;
         this.gitBranch = 0;
-        this.initialSpeed = 750;
+        this.initialSpeed = 800;
 
         this.hurted = false;
         this.underlavas = false;
